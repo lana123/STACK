@@ -33,5 +33,6 @@
 </section>
 <footer>
    <div>Copyright 2015- ,by STACK Team (Korea Univ. 2015 fall Information Security class.) All Rights Reserved.</div>
+   <div><%= new java.util.Date() %></div>
 </footer>
 </html>
